@@ -4,7 +4,7 @@
 #include <sys/time.h>
 #include <time.h>
 /* Include PAPI */
-// #include <papi.h> 
+ #include <papi.h> 
 
 /* PAPI macro helpers definitions */
 #define NUM_EVENT 2
